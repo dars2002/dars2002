@@ -12,11 +12,7 @@
 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="MAzure Badge"/>
 
-- ⚡ Games:
-
-<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Badge"/>
-
-- 📫 How to reach me:
+#### 📫 How to reach me:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 <!--
